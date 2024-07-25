@@ -8,7 +8,6 @@ header:
   actions:
     - label: "Research"
       url: "https://cralbers.github.io/smith-lab/research/"
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   excerpt: "Research lab focused on the investigation of cardio-oncology and heart abnormality mechanisms using cutting-edge methodologies"
 
 gallery:
