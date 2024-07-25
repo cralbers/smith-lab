@@ -5,9 +5,9 @@ hidden: false
 header:
   overlay_color: "#53616c"
   overlay_image: /assets/images/home.jpg
-  # actions:
-  #   - label: "Download"
-  #     url: "https://github.com/mmistakes/minimal-mistakes/"
+  actions:
+    - label: "Research"
+      url: "https://cralbers.github.io/smith-lab/research/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 
