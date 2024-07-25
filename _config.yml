@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Smith Lab"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Cardio-oncology, Arrhythmia and Heart Failure Research"
 name                     : "Your Name"
 description              : # "An amazing website."
 url                      : "cralbers.github.io"

@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#53616c"
-  overlay_image: /assets/images/Untitled-design.png
+  overlay_image: /assets/images/home.jpg
   # actions:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -14,4 +14,3 @@ header:
 ---
 
 {% include feature_row %}
-hi
