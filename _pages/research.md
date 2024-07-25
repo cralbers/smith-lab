@@ -1,7 +1,6 @@
 ---
 permalink: /research/
 toc: true
-author_profile: true
 ---
 
 The Smith Lab conducts research on a range of topics including heart failure, arrhythmia and cardio-oncology, using a variety of . 
@@ -10,7 +9,7 @@ The Smith Lab conducts research on a range of topics including heart failure, ar
 
 Cancer immunotherapy encompasses a growing class of drugs that aim to activate the body's own immune system to fight against cancer cells. Immune checkpoint inhibitors (ICIs) fall into this category, and aim to reactivate the body's immune system to target cancer. However, a growing body of research shows that while patients have increased cancer-free survival, they may go on to have cardiotoxic side effects, ranging from minor ECG abnormalities to fulminant myocarditis. 
 
-To determine the underlying mechanisms that lead to the cardiotoxic side effects of ICIs, the Smith Lab employs novel and cutting edge techniques, such as utilization of induced pluripotent stem cell cardiomyocytes, cardiovascular optogenetics, and *in vivo* to create and characterize clinically relevant models of the cardiotoxic side effects of ICIs.
+To determine the underlying mechanisms that lead to the cardiotoxic side effects of ICIs, the Smith Lab employs novel and cutting edge techniques, such as utilization of induced pluripotent stem cell cardiomyocytes, cardiovascular optogenetics, and *in vivo* models to create and characterize clinically relevant models of the cardiotoxic side effects of ICIs.
 
 # What molecular mechanisms contribute to arrhythmia and heart failure?
 
