@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Research"
       url: "https://cralbers.github.io/smith-lab/research/"
-excerpt: "Research lab focused on the investigation of cardio-oncology and heart abnormality mechanisms using cutting-edge methodologies"
+excerpt: "Research lab focused on the investigation of cardio-oncology topics and arrhythmia mechanisms"
 
 gallery:
   - url: /assets/images/ankB.jpg
