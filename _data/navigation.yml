@@ -4,9 +4,9 @@ main:
   - title: "Research"
     url: /research/
   - title: "People"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /people/
   - title: "Publications"
-  #   url: /year-archive/
+    url: /publications/
   - title: "News"
   #   url: /collection-archive/
   # - title: "Sitemap"
