@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 toc: true
+author_profile: false
 ---
 
 The Smith Lab conducts research on a range of topics including heart failure, arrhythmia and cardio-oncology, using a variety of . 
