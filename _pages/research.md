@@ -3,7 +3,7 @@ permalink: /research/
 toc: true
 ---
 
-The Smith Lab conducts research on a range of topics including heart failure, arrhythmia and cardio-oncology, using a variety of . 
+The Smith Lab conducts research on a range of topics including heart failure, arrhythmia and cardio-oncology, using a variety of modern techniques. 
 
 # How and why do anti-cancer treatments cause cardiotoxicity?
 

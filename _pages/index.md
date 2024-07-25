@@ -24,4 +24,4 @@ gallery:
 ---
 
 {% include feature_row %}
-{% include gallery %}
+<!-- {% include gallery %} -->
