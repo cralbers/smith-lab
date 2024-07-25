@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: false
 header:
-  overlay_color: "#53616c"
+  overlay_color: "#ba0c2f"
   overlay_image: /assets/images/home.jpg
   actions:
     - label: "Research"
