@@ -16,3 +16,8 @@ To determine the underlying mechanisms that lead to the cardiotoxic side effects
 Cytoskeletal proteins play an essential role in the assembly of the cardiac junctional dyad. The cardiac dyad is responsible for the contraction of the heart through excitation-coupling, and if assembly of the dyad is disrupted, electrical signals will be uncoordinated, causing irregular heart contraction and arrhythmia. 
 
 βII spectrin, a cytoskeletal protein, associates with ankyrin-B and represents an integrative node for assembly of the cardiac junctional dyad. The Smith Lab has discovered a novel mutation in the human ankyrin-B gene that disrupts the ankyrin-B/βII spectrin interaction, leading to severe human arrhythmia phenotypes. Through the use of both *in vitro* and *in vivo* model systems, our research in this area focuses on mechanistic characterization of the ankyrin-B/βII spectrin interaction and the downstream effects of its disruption.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/normal_CM.png" alt="">
+  <figcaption>Look at 580 x 300 getting some love.</figcaption>
+</figure> 
