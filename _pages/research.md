@@ -2,9 +2,10 @@
 permalink: /research/
 toc: true
 gallery:
-    - image_path: /assets/images/normal_CM.png
-gallery2:
-    - image_path: /assets/images/B2KO_CM.png
+    - url: /assets/images/normal_CM.png
+      image_path: /assets/images/normal_CM.png
+    - url: /assets/images/B2KO_CM.png
+      image_path: /assets/images/B2KO_CM.png
 
 ---
 
@@ -24,4 +25,3 @@ Cytoskeletal proteins play an essential role in the assembly of the cardiac junc
 
 
 {% include gallery id="gallery" class="full" %}
-{% include gallery id="gallery2" class="full" %}
