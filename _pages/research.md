@@ -3,6 +3,7 @@ permalink: /research/
 toc: true
 gallery:
     - image_path: /assets/images/normal_CM.png
+gallery2:
     - image_path: /assets/images/B2KO_CM.png
 
 ---
@@ -21,6 +22,6 @@ Cytoskeletal proteins play an essential role in the assembly of the cardiac junc
 
 βII spectrin, a cytoskeletal protein, associates with ankyrin-B and represents an integrative node for assembly of the cardiac junctional dyad. The Smith Lab has discovered a novel mutation in the human ankyrin-B gene that disrupts the ankyrin-B/βII spectrin interaction, leading to severe human arrhythmia phenotypes. Through the use of both *in vitro* and *in vivo* model systems, our research in this area focuses on mechanistic characterization of the ankyrin-B/βII spectrin interaction and the downstream effects of its disruption.
 
-![](/assets/images/normal_CM.png)
 
 {% include gallery id="gallery" class="full" %}
+{% include gallery id="gallery2" class="full" %}
