@@ -11,9 +11,9 @@ Scott SS, Greenlee AN, Matzko A, Stein M, Naughton MT, Zaramo TZ, Schwendeman EJ
 
 Devgun JK, Kennedy S, Slivnick J, Garrett Z, Dodd K, Derbala MH, Ortiz C, Smith SA. **Heart failure with recovered ejection fraction and the utility of defibrillator therapy: a review.** ESC Heart Fail. 2022 Feb;9(1):1-10. doi: 10.1002/ehf2.13729. Epub 2021 Dec 24. PMID: 34953039; PMCID: PMC8787956.
 
-Justice CN, Derbala MH, Baich TM, Kempton AN, Guo AS, Ho TH, Smith SA. **The Impact of Pazopanib on the Cardiovascular System.** J Cardiovasc Pharmacol Ther. 2018 Sep;23(5):387-398. doi: 10.1177/1074248418769612. Epub 2018 Apr 29. PMID: 29706106; PMCID: PMC6257996.
+Justice CN, Derbala MH, Baich TM, Kempton AN, Guo AS, Ho TH, Smith SA. **The Impact of Pazopanib on the Cardiovascular System.** J Cardiovasc Pharmacol Ther. 2018 Sep;23(5):387-398. doi: [10.1177/1074248418769612](https://doi.org/10.1177/1074248418769612). Epub 2018 Apr 29. PMID: 29706106; PMCID: PMC6257996.
 
-7: Kempton A, Cefalu M, Justice C, Baich T, Derbala M, Canan B, Janssen PML, Mohler PJ, Smith SA. **Altered regulation of cardiac ankyrin repeat protein in heart failure.** Heliyon. 2018 Feb 1;4(1):e00514. doi: 10.1016/j.heliyon.2018.e00514. PMID: 29560432; PMCID: PMC5857524.
+Kempton A, Cefalu M, Justice C, Baich T, Derbala M, Canan B, Janssen PML, Mohler PJ, Smith SA. **Altered regulation of cardiac ankyrin repeat protein in heart failure.** Heliyon. 2018 Feb 1;4(1):e00514. doi: [10.1016/j.heliyon.2018.e00514](https://doi.org/10.1016/j.heliyon.2018.e00514). PMID: 29560432; PMCID: PMC5857524.
 
 Kempton A, Justice C, Guo A, Cefalu M, Makara M, Janssen P, Ho TH, Smith SA. **Pazopanib for renal cell carcinoma leads to elevated mean arterial pressures in a murine model.** Clin Exp Hypertens. 2018;40(6):524-533. doi: 10.1080/10641963.2017.1403623. Epub 2017 Nov 27. PMID: 29172746; PMCID: PMC6203326.
 
